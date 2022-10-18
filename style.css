@@ -211,7 +211,7 @@ input[type=submit]:hover {
 }
 
 .project-imagestop {
-    margin-top: 20px;
+    margin-top: 80px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap; 
